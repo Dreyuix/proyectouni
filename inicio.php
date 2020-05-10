@@ -6,7 +6,7 @@ $valor2 = 20;
 
 echo "EL valor es " & $valor1;
 
-echofdsfgdgdg
-dgdfgdfgdgd
+$suma = $valor1 + $valor2;
+echo " La suma es " & $suma;
 
 ?>
