@@ -1,4 +1,9 @@
 <?Php
 echo "Hola que tal";
 
+$valor1 = 10;
+$valor2 = 20;
+
+echo "EL valor es " & $valor1;
+
 ?>
